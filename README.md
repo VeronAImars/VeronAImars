@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/VeronAImars/veronaimars.github.io/main/brand/veronaimars-tile.svg" width="88" alt="veronaimars" align="left">
+
 # veronaimars
 
 Open-source tools for people who run real systems and want their assistants to read what
